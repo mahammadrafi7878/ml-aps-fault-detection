@@ -1,0 +1,21 @@
+[2022-12-05 17:40:10,050] 22 root- INFO- Reading data from database: aps and collection: sensor
+[2022-12-05 17:40:13,376] 24 root- INFO- Found columns: Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[2022-12-05 17:40:13,376] 26 root- INFO- Dropping column: _id 
+[2022-12-05 17:40:13,605] 28 root- INFO- Row and columns in df: (36188, 171)
+[2022-12-05 17:40:13,975] 23 root- INFO- Excepting collection data as pandas dataframe
+[2022-12-05 17:40:13,975] 22 root- INFO- Reading data from database: aps and collection: sensor
+[2022-12-05 17:40:17,145] 24 root- INFO- Found columns: Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[2022-12-05 17:40:17,145] 26 root- INFO- Dropping column: _id 
+[2022-12-05 17:40:17,339] 28 root- INFO- Row and columns in df: (36188, 171)
+[2022-12-05 17:40:17,339] 28 root- INFO- befroe saving data in feature store converting na values to nan
+[2022-12-05 17:40:17,878] 30 root- INFO- creating feature storing folder if not exists

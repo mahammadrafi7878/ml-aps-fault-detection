@@ -1,0 +1,9 @@
+[2022-12-05 16:25:58,024] 8 root- INFO- Reading from database:apsand collection:sensor
+[2022-12-05 16:26:01,876] 10 root- INFO- found columns:Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[2022-12-05 16:26:01,876] 12 root- INFO- droping column:_id
+[2022-12-05 16:26:02,148] 14 root- INFO- rows and columns (36188, 171)
